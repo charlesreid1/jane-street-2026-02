@@ -10,7 +10,7 @@ python final.py
 
 ## Problem Statement
 
-![Problem image](img/img.jpg)
+![Problem image](img.jpg)
 
 Place positive integers in some of the cells above, so that the grid contains one 1, two 2’s, three 3’s, and so on,
 up to N N’s. (For some N.)
